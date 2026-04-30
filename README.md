@@ -37,6 +37,7 @@
 ## 1. Instalación de Odoo
 
 Para instalar Odoo primero hay que ir a su página oficial y registrarse. Te pedirá unos datos básicos antes de dejarte descargar el instalador.
+
 ![alt text](./img/instalacion/instalacion_odoo1.png "Instalaciones de Oddo")
 
 ----
